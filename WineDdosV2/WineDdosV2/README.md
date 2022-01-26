@@ -28,7 +28,7 @@
 ## Install
 
     pip3 install requests pysocks
-    git clone https://github.com/Leeon123/CC-attack.git
+    git clone https://github.com/NothingHiddenResmi/Wine-Ddos-V2.0
     cd CC-attack
 
 ## Usage

@@ -3,7 +3,7 @@
 ░▀░▀░▀▀▀░▀░▀░▀▀▀░░░▀▀░░▀▀░░▀▀▀░▀▀▀░░░░▀░░▀░░▀▀▀
 
 
-# CC-attack ![](https://img.shields.io/badge/Version-3.6-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
+# WineDdos ![](https://img.shields.io/badge/Version-3.6-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
  A script for using socks4/5 proxies to attack http(s) server.
 
  News:
@@ -22,9 +22,7 @@
 - [x] Support HTTPS
 - [x] Support Socks4/5
 
-## Showcase
 
-![](https://i.imgur.com/hXGBnkB.png)
 
 ## Install
 
